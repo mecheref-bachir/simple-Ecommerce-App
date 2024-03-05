@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Amazon Ecomerce App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="show_password">Show password</string>
+    <string name="new_account">Create a new Amazon account</string>
+    <string name="new_to_amazon">New to Amazon?</string>
+    <string name="create_account">Create Account</string>
+    <string name="your_name">Your name</string>
+    <string name="continue_button">Continue</string>
+    <string name="mobile_number_or_email">Mobile number or Email</string>
+    <string name="re_enter_password">Re-enter password</string>
+    <string name="shop_by_category">Shop by category</string>
+    <string name="welcome_bachir">welcome bachir</string>
+    <string name="home_and_kitchen">Home and kitchen</string>
+    <string name="beauty_and_self_care">Beauty and self care</string>
+    <string name="toys_and_games">Toys and games</string>
+    <string name="pet_supplies">Pet supplies</string>
+</resources>
